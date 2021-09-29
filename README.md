@@ -1,5 +1,14 @@
 # near-template
 
+## dependence
+```bash
+yarn add near-api-js
+```
+
+```bash
+yarn add ant-design-vue@next
+```
+
 ## Project setup
 ```
 yarn install
@@ -14,11 +23,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
